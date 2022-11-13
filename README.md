@@ -1,7 +1,7 @@
 # Raylib-Usefull-Functions
 A single header only collect of usefull functions to make using raylib easier.
 
-You will need to have raylib in order for this to work.
+You will need to have raylib and raymath in order for this to work.
 
 <h1>What Is Raylib?</h1>
 <img align="left" src="https://github.com/raysan5/raylib/blob/master/logo/raylib_logo_animation.gif" width="288px">
