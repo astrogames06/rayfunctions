@@ -1,5 +1,5 @@
 # Raylib-Usefull-Functions
-A single header only collect of usefull functions to make using raylib easier.
+A single header only collection of usefull functions to make using raylib easier.
 
 You will need to have raylib and raymath in order for this to work.
 
