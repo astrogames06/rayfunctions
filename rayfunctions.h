@@ -18,7 +18,7 @@ float RfuncLookAt(Vector2 pos, Vector2 target)
 
 Vector2 RfuncMoveTowards(Vector2 pos, Vector2 target, float speed)
 {
-    Vector2 new_pos = pos + Normalize(target - pos) * speed;
+    Vector2 new_pos = pos + Vector2Normalize(target - pos) * speed;
 
     return new_pos;
 }
